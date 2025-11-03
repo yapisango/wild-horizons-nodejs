@@ -87,7 +87,7 @@ Once deployed, test your API at:
 
 arduino
 Copy code
-https://your-app-name.onrender.com/api
+https://wild-horizons-nedejs.onrender.com/api
 
 🧰 Tech Stack
 

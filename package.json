@@ -1,12 +1,12 @@
 {
   "name": "wild-horizons",
   "version": "1.0.0",
-  "description": "a dataset of the planet’s most interesting places",
+  "description": "a dataset of the planet’s most interesting places. A simple Node.js REST API for destinations, deployed on Render.",
   "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Sango Yapi",
-  "license": "ISC"
+  "author": "Sango Mabhuti Yapi",
+  "license": "MIT"
 }
