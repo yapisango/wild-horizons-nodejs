@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build and cache files
+dist/
+build/
+.cache/
+.tmp/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Render/Deployment artifacts
+*.tar.gz
+*.zip
+
+# Coverage and test files
+coverage/
+*.lcov
