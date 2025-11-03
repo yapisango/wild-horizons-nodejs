@@ -104,5 +104,5 @@ JSON Data Storage
 Sango Mabhuti Yapi
 Frontend & Node.js Developer
 🌍 Johannesburg, South Africa
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/sango-yapi
+GitHub: https://github.com/yapisango
